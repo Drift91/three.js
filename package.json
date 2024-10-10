@@ -1,9 +1,9 @@
 {
-  "name": "three",
+  "name": "@citizenfx/three",
   "version": "0.100.0",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
-  "repository": "mrdoob/three.js",
+  "repository": "citizenfx/three.js",
   "jsnext:main": "build/three.module.js",
   "module": "build/three.module.js",
   "files": [
